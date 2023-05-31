@@ -1,0 +1,37 @@
+.body{
+    margin: 8px;
+}
+
+.container{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.box1{
+    width: 25%;
+    background-color: #29dff7;
+    float: left;
+    height: 150px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+
+.box2{
+    width: 37.5%;
+    background-color: #148c9e;
+    float:left;
+    height: 150px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.bg-top{
+    background-color: rgb(163, 182, 182);
+    width: 90%;
+    height: 70px;
+    margin:10px;
+}
+
